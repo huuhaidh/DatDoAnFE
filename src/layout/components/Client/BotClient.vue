@@ -40,7 +40,7 @@
                         <hr class=" mt-0 d-inline-block mx-auto"
                             style="width: 60px; background-color: #7c4dff; height: 2px" /><br>
                         <div class="text-center mb-2">
-                            <img src="https://dzfullstack.com/assets/images/logo-img.png" class="img-fluid"
+                            <img src="https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-healthy-food-logo-designs-png-image_878260.jpg" class="img-fluid"
                                 style="width: 100px; height: auto;" alt="">
                         </div>
                         <p>
@@ -87,10 +87,10 @@
                         <h6 class="text-uppercase fw-bold">Contact</h6>
                         <hr class="mb-4 mt-0 d-inline-block mx-auto"
                             style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p><i class="fas fa-home mr-3"></i>32 Xuân Diệu, Hải Châu, Đà Nẵng</p>
-                        <p><i class="fas fa-envelope mr-3"></i> dzfullstack@gmai.com</p>
-                        <p><i class="fas fa-phone mr-3"></i> + 0905523543</p>
-                        <p><i class="fas fa-print mr-3"></i> + 0376659652</p>
+                        <p><i class="fas fa-home mr-3"></i> Đà Nẵng</p>
+                        <p><i class="fas fa-envelope mr-3"></i> tranhuuhai231@gmai.com</p>
+                        <p><i class="fas fa-phone mr-3"></i> + 123123</p>
+                        <p><i class="fas fa-print mr-3"></i> + 123123</p>
                     </div>
                 </div>
             </div>

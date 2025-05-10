@@ -3,11 +3,11 @@
 		<nav class="navbar navbar-expand">
 			<div class="topbar-logo-header">
 				<div class="">
-					<img src="https://i.pinimg.com/736x/78/4d/19/784d19602be7f1d070b6a13001b7fc5c.jpg"
+					<img src="https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-healthy-food-logo-designs-png-image_878260.jpg"
 						class="logo-icon mb-1" alt="logo icon">
 				</div>
 				<div class="">
-					<h4 class="logo-text" style="color: red;">ADMIN</h4>
+					<h4 class="logo-text" style="color: red;">ADMIN Foodee</h4>
 				</div>
 			</div>
 			<div class="mobile-toggle-menu"><i class='bx bx-menu'></i></div>
