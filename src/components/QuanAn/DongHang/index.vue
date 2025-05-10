@@ -22,7 +22,7 @@
                             </thead>
                             <tbody>
                                 <template v-for="(value, key) in list_don_hang" :key="key">
-                                    <tr class="align-middle">
+                                    <tr v-if="value.tinh_trang!=3" class="align-middle">
                                         <td class="text-center">{{ key + 1 }}</td>
                                         <td class="text-center">{{ value.created_at }}</td>
                                         <td class="text-center">{{ value.ma_don_hang }}</td>

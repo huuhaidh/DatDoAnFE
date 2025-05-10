@@ -22,6 +22,15 @@
 					</router-link>
 				</li>
 				<li class="nav-item">
+					<router-link to="/quan-an/don-hang">
+						<a class="nav-link" href="/quan-an/don-hang">
+							<div class="parent-icon"><i class="fa-solid fa-list"></i>
+							</div>
+							<div class="menu-title">Đơn hàng</div>
+						</a>
+					</router-link>
+				</li>
+				<li class="nav-item">
 					<router-link to="/quan-an/mon-an">
 						<a class="nav-link" href="/quan-an/mon-an">
 							<div class="parent-icon"><i class="fa-solid fa-utensils"></i>
