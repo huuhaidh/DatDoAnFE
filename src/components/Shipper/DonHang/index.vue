@@ -297,13 +297,13 @@
 												<div class="col-4">
 													<div class="text-center">
 														<div class="text-muted small mb-1">Giá trị đơn hàng</div>
-														<div class="fw-bold text-success">85.000đ</div>
+														<div class="fw-bold text-success">{{ formatVND(value.tong_tien) }}</div>
 													</div>
 												</div>
 												<div class="col-4">
 													<div class="text-center">
 														<div class="text-muted small mb-1">Phí ship</div>
-														<div class="fw-bold text-primary">25.000đ</div>
+														<div class="fw-bold text-primary">{{ formatVND(value.phi_ship) }}</div>
 													</div>
 												</div>
 												<div class="col-4">
