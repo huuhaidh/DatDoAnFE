@@ -6,7 +6,7 @@
                     <div class="card-body p-4">
                         <div class="text-center mb-4">
                             <h3 class="fw-bold">Đăng Nhập</h3>
-                            <p class="text-muted small">Chào mừng đến với FoodZone</p>
+                            <p class="text-muted small">Chào mừng đến với Foodee</p>
                         </div>
 
                         <form @submit.prevent="Login">
