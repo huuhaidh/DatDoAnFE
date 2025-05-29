@@ -43,7 +43,7 @@
                                 |
                                 <div class="col-lg-5">
                                     <h6 class="form-label">DỊCH VỤ BỞI </h6>
-                                    <h6 class="text-danger">FOODZONE</h6>
+                                    <h6 class="text-danger">FOODEE</h6>
                                 </div>
                             </div>
                         </div>

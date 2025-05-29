@@ -26,11 +26,9 @@
                                 <label for="password" class="form-label">Recaptcha</label>
                                 <div class="g-recaptcha" data-sitekey="6LftzRorAAAAAFqAWCXc2BGMp7XM-RgWuryT0v7d"></div>
                             </div>
-
                             <button type="submit" class="btn btn-primary w-100 mb-3">
                                 Đăng Nhập
                             </button>
-
                             <div class="text-center">
                                 <a href="#" class="text-decoration-none small me-2">Quên mật khẩu?</a>
                                 <span class="text-muted">|</span>

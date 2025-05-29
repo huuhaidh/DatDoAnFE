@@ -31,13 +31,13 @@
 				<li class="nav-item">
 					<a class="nav-link active" id="available-tab" data-bs-toggle="tab" href="#available">
 						<i class="bi bi-list-ul me-1"></i> Đơn có thể nhận
-						<span class="badge bg-primary ms-1">3</span>
+						<span class="badge bg-primary ms-1"></span>
 					</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" id="accepted-tab" data-bs-toggle="tab" href="#accepted">
 						<i class="bi bi-check-circle me-1"></i> Đơn đã nhận
-						<span class="badge bg-success ms-1">3</span>
+						<span class="badge bg-success ms-1"></span>
 					</a>
 				</li>
 				<li class="nav-item">
